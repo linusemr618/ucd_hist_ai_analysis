@@ -1,0 +1,37 @@
+You are an experienced historian of modern Europe helping a first-year university history student. Write an analysis of the primary source printed between the <source> tags below.
+
+TASK
+Write about 800 words of continuous prose (no bullet points) under these four headings:
+
+1. What kind of source is it?
+Identify the type of source, who produced it, when, for whom, and for what purpose. Explain how the type of source should shape the way we read it.
+
+2. Historical context
+Explain what was happening when the source was produced and what background a reader needs to understand it. Keep this section to about 150 words: context should help us read the source, not replace reading it.
+
+3. What is the source actually saying?
+This should be the longest section. Work through the source in order. Quote at least five short phrases exactly as they appear in the source and explain what each one reveals. Comment on word choice, tone, structure, and any assumptions, tensions or contradictions.
+
+4. Why does the source matter?
+What can this source tell historians, and what can it not tell them? Whose voices does it record, whose are filtered through someone else, and whose are missing? End with a clear overall judgement about the source's value.
+
+RULES
+- Only quote words that actually appear between the <source> tags. Copy quotations exactly.
+- Make clear which points come from the source itself and which come from your own background knowledge.
+- If you are not sure about a fact (a date, a name, an event, an outcome), say that you are unsure rather than guessing.
+- Do not invent books, articles, page numbers or quotations from historians. Do not include a bibliography.
+- Do not simply summarise. Explain why the details matter.
+
+<source>
+Title: The Times on votes for women. An editorial in The Times, 29 February 1908, p. 9. (Words in square brackets were added by the editor of the source pack.)
+
+Women have within the last century shown a capacity for education undreamed of before; they have made a name for themselves in science and literature; and have amply proved their capacity for work as organizers and wise counsellors in municipal affairs. But these admissions by no means help to prove that women, as women, are qualified to take responsibility for governing this great State and its Empire. When women talk about women’s successful exercise of the franchise in some Australasian States, in Finland, or in some States of the Union, they seem to forget that in all these cases, with due respect be it said, the problems of government approximate far more to municipal questions than those with which this country has to deal.
+
+It is true that if women could point to any serious grievances from which they suffer owing to their lack of the franchise in England, there might be something more to be said, but their very dependence, which is not political but natural, gives them in many ways a privileged position. Even some of the ardent ladies who beard [boldly challenge / confront] policemen would, perhaps, not be so ready so to act were they not instinctively aware that their sex protects them from the rough handling which men would receive in such case. This is not meant in any derogation to them or to their courage, much the reverse; but it simply points to the fact, which even they cannot get over, that they are women and cannot expect the same hard knocks that men receive, though no doubt they receive knocks of another kind.
+
+The fact brutally resolves itself to this. Society ultimately depends on force. Happily force is not constantly employed, but, until the world becomes very different from what it is, it must always be latent. What the majority in any age think to be right and just must be impressed on the minority who do not agree with them by the belief that in the last resort they would fight to maintain their ideas. A society largely governed by women, as this would be if we had adult and universal suffrage, could not have this sanction for its internal laws, or for the external policies of peace and war which it might adopt. If women gave us laws, they would have to persuade men to enforce them, and men would not do this unless they also approved of them.
+
+And, after all, there is every indication that this is what most women feel. A certain number of ladies whose names are now well known have recently multiplied themselves at meetings and demonstrations all over the country, but they have certainly not proved that any considerable number of their sex agree with them. On the contrary, from the number of ladies who write to protect against their views one may suspect that the contrary is the case. Gladstone wisely pointed out on a former occasion that no such extension of the franchise would be tolerable unless the beneficiaries really desired it. If the matter could be put to the vote of the sex, it would probably be found that the vast number of women who realize that one of their most absorbing duties in life is to bear and to educate good citizens for their country, and that they need not for that reason give up their own education or their own womanly pride, would still feel that it is the man’s function to order and to guard the State in their joint interest and in the interest of the family dependent on them. And for the widows and unmarried women Pericles’s advice still contains much truth – “And if I am to speak of womanly virtues … let me sum them up in one short admonition. To a woman not to show more weakness than is natural to her sex is a great glory, and not to be talked about for good or evil among men.”
+</source>
+
+Reminder: about 800 words, the four headings above, at least five exact quotations from the source, and flag anything you are unsure about.
