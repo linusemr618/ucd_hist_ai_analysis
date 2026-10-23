@@ -1,2 +1,37 @@
 \section{My Evaluation}
-Example.\footnote{Author, \emph{Title} (City: Publisher, Year), page.}
+Footnote\footnote{Author, \emph{Title} (City: Publisher, Year), page.}
+
+0. Intruduction
+
+First of all, the model sticked to most of the rules I have given to it;
+it sticked to $800$ word limit ($787$ to be exact) and followed the given structure in the prompt.
+
+But it broke the quotation rule, as {\ttfamily\small "undreamed of before,"} is the only direct quote from the source, although the prompt asked for at least five.
+And even there, it did not get the punctuation right.
+Being unable to quote correctly, even from just the prompt,
+is probably the result of the model being only $9$ billion parameters and quantised to fit in under \qty{8}{\giga\byte}.
+
+1. What kind of source is it?
+- good: author
+
+The interpretation of the article is mostly accurate,
+for example
+But it made some mistakes in the details.
+
+A significant difficulty that arose from the prompt was that I told it to play the role of \enquote{an experienced historian of modern Europe},
+while demanding to flag any information (a date, a name, an event, an outcome) it was unsure about.
+That can be interpreted as a contradiction, because an experienced historian can usually look these things up, but the model could not do that.
+Therefore, it confidently made up some information where it should have flagged it instead, probably to seem more like a real historian.
+An example would be
+- quote sources and prove model wrong
+
+4. Why does the source matter?
+- add a significant point the model missed
+
+All in all, small open models are already very useful for basic tasks such as summarisation.
+But especially for a reliable and deep primary source analysis, they are not yet at the level of bigger models, and certainly not human historians.
+Human historians can look up information and verify it, therefore handeling a way bigger amount of input, which is fundamental for a primary source analysis.
+This might get better in the future, but the fundamental restriction comes from the underlying model architecture.
+$9$ billion parameters is simply not enough to reliably handle such a large input.
+But there are already efforts to address this problem, for example the Per-Layer Embedding (PLE) technology,
+introduced by Google's \href{https://ollama.com/library/gemma4}{gemma4} model.

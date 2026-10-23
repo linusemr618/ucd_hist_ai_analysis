@@ -2,10 +2,19 @@
 
 In this assignment, I will analyse the capability of a large language model (LLM) to analyse a historical primary source.
 
+\subsection{Choice of Model}
+
 I chose not to use a big cloud provider for this assignment as I see the future of AI usage in our society as being more decentralised and open.
-Therefore, I used a local model called \href{https://ollama.com/library/qwen3.5}{qwen3.5:9b},
-which is an open weight $9$~billion parameter model.
+Therefore, I used a local model called \href{https://ollama.com/library/qwen3.5:9b}{qwen3.5:9b},
+which is an open weight $9$~billion parameter model with thinking capabilities.
 It ran on my local computer's CPU in a completely sandboxed (offline) environment, so it could not access any existing public primary source analysis on the internet.
 But that also meant that it could not research any information about the primary source I provided it with,
 and it had to rely solely on its pre-trained knowledge and reasoning capabilities, compressed in less than \qty{8}{\giga\byte} of filesize.
 Therefore, I explicitly told the model to not make up any information and flag any information it was unsure about.
+
+\subsection{Choice of Primary Source}
+
+\subsection{Writing the Prompt}
+The environment had a limited context window of \qty{32}{\kilo\byte}, so I had to include the primary source in the prompt itself instead of attaching a file.
+I tried to paraphrase the instruction on how to analyse a primary source from \href{https://brightspace.ucd.ie/d2l/le/lessons/400357/units/4372992}{Brightspace}.
+Since a model without internet access is prone to hallucination, I explicitly gave it rules to not invent sources and to flag any information it was unsure about.
