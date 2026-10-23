@@ -2,9 +2,13 @@
   packages = with pkgs; [
     (texliveSmall.withPackages (ps: with ps; [
       latexmk
+      fvextra
       siunitx
-      csquotes
+      #tcolorbox
+      #tikzfill
+      #pdfcol
+      #listingsutf8
+      #csquotes
     ]))
   ];
 }
-
